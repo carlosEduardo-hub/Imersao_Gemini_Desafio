@@ -45,6 +45,7 @@ Este projeto simula um sistema de segurança pública que utiliza câmeras de tr
     * Faça upload das imagens para o ambiente do Colab.
     * Copie o caminho da imagem.
     * Cole o caminho da imagem como argumento ao executar o código.
+* OBS: Nos arquivos do repositório já foi fornecido exemplos de placas.Duas delas estão presentes no dicionário criado no código portanto retorna veículo encontrado, e outra não esta presente,retornando que a placa não foi encontrada no "Banco de Dados".
 
 ## Possíveis Próximos passos
 
